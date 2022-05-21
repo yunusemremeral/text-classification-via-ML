@@ -21,10 +21,10 @@ Karşılaştırma / Comparison
 
 
 Bağımlılıklar / Dependencies
-Numpy (1.22.33),
-Tkinter (8.6),
-nltk (3.5),
-sklearn (1.1.0)
+1- Numpy, 1.22.33
+2- Tkinter, 8.6
+3- nltk, 3.5
+4- sklearn, 1.1.0
 
 <img width="829" alt="Ekran Resmi 2022-05-21 20 15 33" src="https://user-images.githubusercontent.com/17406277/169663737-a435230b-3204-4ed2-84f6-67989b5c9c58.png">
 
