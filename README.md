@@ -15,6 +15,9 @@ Abstract: In this study, within the scope of Machine Learning techniques on 5 di
 
 Keywords: text mining, text classification, machine learniing
 
+Karşılaştırma / Comparison
+<img width="621" alt="image" src="https://user-images.githubusercontent.com/17406277/169664876-f90f4442-90ff-422d-a0af-0f8e30cfa5a6.png">
+
 
 Bağımlılıklar / Dependencies
 1- Numpy, 1.22.33
