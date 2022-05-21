@@ -1,7 +1,7 @@
 # text-classification-via-ML
 Text Classification via Machine Learning Techniques
 
-#Makine Öğrenmesi Tekniklerinin Metin Sınıflandırma Başarılarının Karşılaştırılması
+# Makine Öğrenmesi Tekniklerinin Metin Sınıflandırma Başarılarının Karşılaştırılması
 
 Özet– Bu çalışmada farklı 5 veri seti üzerinde Makine Öğrenmesi teknikleri kapsamında, Rocchio Classification, Boosting, Bagging, Naive Bayes Classifier, K-Nearest Neighbor, Support Vector Machine, Decision Tree, Random Forest gibi tekniklerin bir arayüz üzerinden gerçekleştirilmesi ve bu sonuçların karşılaştırılması gerçekleştirilecektir. 
 
@@ -9,7 +9,7 @@ Anahtar Kelimeler– metin madenciliği, metin sınıflandırma, makine öğrenm
 
 
 
-#Comparison of Text Classification Achievements of Machine Learning Techniques
+# Comparison of Text Classification Achievements of Machine Learning Techniques
 
 Abstract: In this study, within the scope of Machine Learning techniques on 5 different data sets, techniques such as Rocchio Classification, Boosting, Bagging, Naive Bayes Classifier, K-Nearest Neighbor, Support Vector Machine, Decision Tree, Random Forest will be implemented through an interface and these results will be compared.
 
